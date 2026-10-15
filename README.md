@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-MetaTrader%205-blue.svg)](https://www.metatrader5.com/)
 [![Language](https://img.shields.io/badge/Language-MQL5-orange.svg)](https://www.mql5.com/)
-[![Symbol](https://img.shields.io/badge/Symbol-XAUUSD%20%2F%20GOLD-yellow.svg)](https://github.com/n30dyn4m1c/gold-pro-scalper)
+[![Symbol](https://img.shields.io/badge/Symbol-XAUUSD%20%2F%20GOLD-yellow.svg)](https://github.com/MT5-Automation-Labs/mt5-gold-scalper-ea)
 
 MetaTrader 5 Expert Advisors that scalp gold (`GOLD` / `XAUUSD`) on M1 by trading statistical extremes back toward the mean.
 
