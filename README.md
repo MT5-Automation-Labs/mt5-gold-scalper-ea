@@ -169,3 +169,7 @@ Released under the [MIT License](LICENSE).
 ## Author
 
 **Neo Malesa** — [n30dyn4m1c](https://github.com/n30dyn4m1c)
+
+## Contact
+
+Telegram: [t.me/teraus111](https://t.me/teraus111)
