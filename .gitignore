@@ -1,0 +1,23 @@
+# Compiled MetaTrader binaries and logs
+*.ex5
+*.ex4
+*.log
+
+# Editor and OS
+.vs/
+.vscode/
+*.tmp
+Thumbs.db
+Desktop.ini
+
+
+# Added for MT5-Automation-Labs
+__pycache__/
+*.pyc
+.env
+*.log
+logs/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.ex5
